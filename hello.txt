@@ -1,2 +1,6 @@
 Hello world Im charles
+<<<<<<< HEAD
 adding another line from local
+=======
+adding another line from cloud
+>>>>>>> 752d985c7c9c47844671e4e55ede84b263d66989
